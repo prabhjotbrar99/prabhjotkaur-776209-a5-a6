@@ -2,7 +2,7 @@ package Prabh_a5_a6;
 
 import javax.swing.*;
 
-public class LLcbusiness{
+public class LLcbusiness {
 
         double serviceCostA;
         double serviceCostB;
